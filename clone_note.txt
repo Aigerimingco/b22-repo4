@@ -1,0 +1,3 @@
+I just created empty rem ote repository from github.com account by clicking on plus icon on top right corner and new repo and give a name and click create
+
+and Cloned this repository by clicking on Set up in Desktop and (optionally select the location) click on clone 
